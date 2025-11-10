@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculadoraIMC" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!-- Adicionar cores primaria e variacao -->
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primaria_variacao</item>
+
+        <!-- Adicionar cor de fundo -->
+        <item name="android:windowBackground">@color/fundo</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24C37.4,24 24,37.4 24,54s13.4,30 30,30 30,-13.4 30,-30S70.6,24 54,24z"/>
+
+    <!-- Balança -->
+    <path
+        android:fillColor="#1ccbb2"
+        android:pathData="M34,58h40v4H34z"/>
+    <path
+        android:fillColor="#1ccbb2"
+        android:pathData="M39,62h30v2H39z"/>
+    <path
+        android:fillColor="#1ccbb2"
+        android:pathData="M44,64h20v8H44z"/>
+
+    <!-- Silhueta humana -->
+    <path
+        android:fillColor="#1ccbb2"
+        android:pathData="M54,34c-2.2,0 -4,1.8 -4,4s1.8,4 4,4 4,-1.8 4,-4S56.2,34 54,34z"/>
+    <path
+        android:fillColor="#1ccbb2"
+        android:pathData="M50,42v12h8V42H50z"/>
+    <path
+        android:fillColor="#1ccbb2"
+        android:pathData="M48,54v6h12v-6H48z"/>
+</vector>
